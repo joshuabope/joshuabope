@@ -27,7 +27,7 @@ making them better.
 
 ## what i'm into
 
-- following projects wherever they lead — from interface details to the logic underneath
+- following projects wherever they lead... from interface details to the logic underneath
 - writing software that's easier to use, understand, and maintain
 - probably polishing a detail nobody asked me to notice
 
