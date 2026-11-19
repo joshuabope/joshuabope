@@ -18,12 +18,7 @@
 
 ## lately
 
-```text
-building things.
-breaking things.
-figuring out why.
-making them better.
-```
+making stuff. learning things. no big speech.
 
 ## what i'm into
 
