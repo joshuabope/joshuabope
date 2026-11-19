@@ -2,7 +2,7 @@
   <img src="./assets/green-field-banner.jpg" width="100%" alt="A quiet green field beneath a wide blue sky" />
 </p>
 
-<h1 align="center">hey, i'm josh.</h1>
+<h1 align="center">hey, i'm josh(ua).</h1>
 
 <p align="center">
   cs student making practical software — clean where it matters, useful where it counts.
